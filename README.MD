@@ -2,12 +2,12 @@ A simple app to test retrieving a response from Stripe Connect's Express account
 
 1.Install dependencies 
 
->npm install stripe --save
+>npm install express --save
 
->npm install strip -- save
+>npm install stripe -- save
 
 2. Run
 
 > npm start 
 
-The application uses a public test key prvoided by Stripe. you should see the response payload in the console when the app runs. Type 'rs' into your command line to generate a new payload. 
+The application uses a public test key provided by Stripe. You should see the response from Stripe in your console when the app runs. Type 'rs' into your command line to generate a new response. 
